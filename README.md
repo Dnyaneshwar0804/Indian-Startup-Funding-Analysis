@@ -1,12 +1,5 @@
 # Indian-Startup-Funding-Analysis
-
-Here’s a README file for your `mainn.py` script:
-
----
-
-# Startup Funding Data Analysis
-
-## 📌 Overview
+##📌 Overview
 
 This project analyzes startup funding data from `startup_funding.csv`. It performs data cleaning, transformation, aggregation, and visualization to uncover trends such as:
 
@@ -82,14 +75,4 @@ The script produces:
   * Top investors (funding & deals)
   * Top investment types
 
----
 
-## 📌 Notes
-
-* Ensure your CSV file contains the expected columns:
-
-  * `Sr No`, `Date dd/mm/yyyy`, `Startup Name`, `Industry Vertical`, `SubVertical`,
-    `City  Location`, `Investors Name`, `InvestmentnType`, `Amount in USD`, `Remarks`
-* Any missing or malformed data is handled gracefully.
-
----
